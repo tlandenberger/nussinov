@@ -1,1 +1,1 @@
-# Nussinov rna folding algorithm
+# Nussinov RNA folding algorithm
