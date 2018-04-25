@@ -16,8 +16,8 @@
       <file leaf-file-name="nussinov.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nussinov.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="142" column="17" lean-forward="true" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
+            <state relative-caret-position="1965">
+              <caret line="131" column="47" selection-start-line="131" selection-start-column="47" selection-end-line="131" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/venv/lib/python3.6/class.py" />
         <option value="$USER_HOME$/Documents/Studium/Bachelorarbeit/epiope_predicition_pipeline.py" />
         <option value="$PROJECT_DIR$/nussinov_example.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/nussinov.py" />
       </list>
     </option>
@@ -71,6 +72,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -130,13 +132,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2279587" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30068967" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23172414" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -156,21 +159,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/nussinov.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="142" column="17" lean-forward="true" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nussinov.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nussinov_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#93#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/nussinov_example.py" />
     <entry file="file://$PROJECT_DIR$/nussinov.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -178,16 +179,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nussinov_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#93#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/nussinov_example.py" />
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/assignment01.py" />
     <entry file="file://$USER_HOME$/Documents/Studium/Bachelorarbeit/epiope_predicition_pipeline.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -196,20 +188,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nussinov_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#93#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/nussinov_example.py" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/nussinov.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="142" column="17" lean-forward="true" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
+        <state relative-caret-position="1965">
+          <caret line="131" column="47" selection-start-line="131" selection-start-column="47" selection-end-line="131" selection-end-column="47" />
         </state>
       </provider>
     </entry>
